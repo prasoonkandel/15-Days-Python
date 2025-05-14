@@ -1,6 +1,7 @@
+#program checks ordered pairs are equal or not
 import time
 
-print("Check if two orderd pairs are equal or not")
+print("Check if two orderd pairs are equal or not");
 time.sleep(2)
 print("Enter the first ordered pair")
 time.sleep(1)
