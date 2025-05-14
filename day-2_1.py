@@ -1,3 +1,4 @@
+#this is typewritter effect
 import time 
 gap = time.sleep
 text = input("Enter text : ")
