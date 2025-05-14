@@ -1,4 +1,4 @@
-#program checks ordered pairs are equal or not
+# this checks ordered pairs are equal or not 
 import time
 
 print("Check if two orderd pairs are equal or not");
