@@ -22,7 +22,7 @@ gap(1)
 
 player_no = random.randint(0, no - 1)
 
-print(f"\n{players[player_no]} should do this dare:")
+print(f"\n It's {players[player_no]}'s turn:")
 gap(2)
 random_dare = random.choice(dares)
 print(random_dare)
