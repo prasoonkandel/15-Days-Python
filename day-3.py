@@ -7,15 +7,13 @@ no = int(input("Enter number of players: "))
 players = []
 
 gap(1)
-for i in range(0 , no-1 , 1):
-    players[i] = input(f"Enter player no.{i + 1} name :")
+for i in range(1 , no+1 , 1):
+    player = input(f"Enter player no.{i} name :")
+    players.append(player)
 
 
 gap(1)
 
-for i in range(no):
-    name = input(f"Enter player no.{i + 1} name: ")
-    players.append(name)
 
 dares = [
     "Do 20 squats", "Do 10 situps", "Do 5 pushups", "Slap yourself",
