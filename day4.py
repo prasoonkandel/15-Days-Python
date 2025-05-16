@@ -10,6 +10,7 @@ if (user_side=="h" ):
     user_side = int(0)
 else:
       user_side = int(1)
+gap(2)      
 
 if (user_side == comp_side):
      print("You won")
