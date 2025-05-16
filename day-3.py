@@ -5,12 +5,11 @@ gap = time.sleep
 
 no = int(input("Enter number of players: "))
 players = []
-<<<<<<< HEAD
+
 gap(1)
 for i in range(0 , no-1 , 1):
     players[i] = input(f"Enter player no.{i + 1} name :")
-=======
->>>>>>> fb32e20209544ca5420811087aee828a88429997
+
 
 gap(1)
 
