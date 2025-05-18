@@ -1,3 +1,6 @@
+#this is a random dare giver game
+# it gives  a random dare to random person    
+
 import random
 import time
 
