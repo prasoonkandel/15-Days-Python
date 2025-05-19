@@ -5,7 +5,7 @@ gap(1)
 marks= []
 subs = int(input("Enter the numbers of subjects:"))
 for i in range(subs):
-    grade =input("Enter grade (A+/D):")
+    grade =input(f"Enter grade of sub no.{i+1} (A+/D):")
     if (grade=="A+"):
         marks.append(4)
     elif (grade=="A"):
