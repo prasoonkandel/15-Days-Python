@@ -1,3 +1,4 @@
+#password generator
 import random
 
 def generate(len):
