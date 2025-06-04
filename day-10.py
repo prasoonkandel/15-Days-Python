@@ -3,9 +3,9 @@ import pyfiglet
 import time
 
 gap = time.sleep
-run = True
+ClockStart = True
 
-while run:
+while ClockStart:
     now = datetime.datetime.now()
     hour = now.hour
     minute = now.minute
