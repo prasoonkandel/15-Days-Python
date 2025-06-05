@@ -1,3 +1,4 @@
+#simple click
 import datetime
 import pyfiglet
 import time
