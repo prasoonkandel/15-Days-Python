@@ -1,4 +1,4 @@
-#simple click
+# simple and working clock made using python 
 import datetime
 import pyfiglet
 import time
