@@ -1,11 +1,12 @@
+# simple and working clock made using python 
 import datetime
 import pyfiglet
 import time
 
 gap = time.sleep
-run = True
+clockStart = True
 
-while run:
+while clockStart:
     now = datetime.datetime.now()
     hour = now.hour
     minute = now.minute

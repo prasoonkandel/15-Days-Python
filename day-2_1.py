@@ -1,7 +1,7 @@
 #this is typewritter effect
 import time 
 gap = time.sleep
-text = input("Enter text : ")
+text = input("Enter text to typewrite : ")
 
 
 for i in range(0 , len(text) , 1):
