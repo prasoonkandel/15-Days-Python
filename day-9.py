@@ -1,4 +1,4 @@
-# bmi calculator by using functions 
+# bmi calculator by using functions  very nice
 import time
 gap = time.sleep
 
