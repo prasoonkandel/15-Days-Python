@@ -17,6 +17,7 @@ def get_answer(user_input):
             print("Searching Wikipedia")
             summary = wikipedia.summary(userIn, sentences=2)
             return summary  # <-- Add this line
+            print("\r  \r")
         except wikipedia.exceptions.DisambiguationError:
             return "Your question is too broad, please make it more specific."
         except wikipedia.exceptions.PageError:
