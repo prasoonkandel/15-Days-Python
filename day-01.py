@@ -1,5 +1,5 @@
 
-# text to speech 
+# text to speech
 import emoji
 import pyttsx3
 import time
