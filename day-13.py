@@ -1,4 +1,4 @@
-# simple voice assistant with speech recognization
+# simple voice assistant with speech recognization (sr)
 
 import speech_recognition as sr
 import webbrowser as brave
