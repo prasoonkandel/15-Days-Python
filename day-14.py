@@ -1,5 +1,4 @@
-# this is a simple caclulator
-
+# this is a simple caclulator with simple gui
 
 import tkinter as tk
 
